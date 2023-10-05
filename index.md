@@ -40,4 +40,13 @@
 
 ![image](https://github.com/kki6700/kki6700.github.io/assets/59388611/884e1521-0531-4a35-b34b-8f01b1c65b13)
 
+-장식 (그림)
 
+![image](https://github.com/kki6700/kki6700.github.io/assets/59388611/7c2d6cdf-4ebc-4f26-9e77-f881fe0a760e)
+
+## 2. 동영상
+https://youtube.com/shorts/Yj-VmCbSAd4?si=QwkafeEyrmZQi50U
+
+https://youtu.be/UqWtavRip-8?si=rYiAuqSF71drcRrj
+
+https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
