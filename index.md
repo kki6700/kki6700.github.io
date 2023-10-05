@@ -35,8 +35,3 @@
 -배경
 
 ![image](https://github.com/kki6700/kki6700.github.io/assets/59388611/3d318fc6-d7fb-469b-83e4-29da96d58e7f)
-
-
-
-
-
