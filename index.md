@@ -28,4 +28,14 @@
 
 # [관련 이미지]
 ## 1. 이미지
+-제한된 시야
+![image](https://github.com/kki6700/kki6700.github.io/assets/59388611/32e4e180-ae35-4386-b825-8545d47fb17e)
+
+-배경
+
+![image](https://github.com/kki6700/kki6700.github.io/assets/59388611/3d318fc6-d7fb-469b-83e4-29da96d58e7f)
+
+
+
+
 
