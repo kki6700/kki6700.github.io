@@ -107,14 +107,14 @@ https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
 |6|천사상|<img src="./img/image00006.png" width="300">|
 |7|그림|<img src="./img/image00007.png" width="300">|
 |8|기괴한 그림|<img src="./img/image00008.png" width="300">|
-|9|플레이어|<img src="./img/image00009.bmp" width="300">|
-|10|손전등|<img src="./img/image00010.png" width="300">|
-|11|문|<img src="./img/image00011.png" width="300">|
-|12|평범한 조각상|<img src="./img/image00012.png" width="300">|
-|13|기괴한 조각상|<img src="./img/image00013.png" width="300">|
-|14|천사상|<img src="./img/image00014.bmp" width="300">|
-|15|그림|<img src="./img/image00015.png" width="300">|
-|16|기괴한 그림|<img src="./img/image00016.png" width="300">|
-|17|사운드|<img src="./img/image00017.png" width="300">|
-|18|세이더 그래프|<img src="./img/image00018.bmp" width="300">|
-|19|기괴한 그림|<img src="./img/image00019.png" width="300">|
+|9|단서|<img src="./img/image00009.bmp" width="300">|
+|10|열쇠|<img src="./img/image00010.png" width="300">|
+|11|화분|<img src="./img/image00011.png" width="300">|
+|12|E키|<img src="./img/image00012.png" width="300">|
+|13|안개|<img src="./img/image00014.bmp" width="300">|
+|14|공포사운드|<img src="./img/image00015.png" width="300">|
+|15|공포사운드1|<img src="./img/image00016.png" width="300">|
+|16|기괴한 그림|<img src="./img/image00017.png" width="300">|
+|17|광원|<img src="./img/image00018.bmp" width="300">|
+|18|버튼|<img src="./img/image00019.png" width="300">|
+
