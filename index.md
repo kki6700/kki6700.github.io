@@ -110,7 +110,7 @@ https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
 |9|단서|<img src="./img/image00009.bmp" width="300">|
 |10|열쇠|<img src="./img/image00010.png" width="300">|
 |11|화분|<img src="./img/image00011.png" width="300">|
-|12|E키|<img src="./img/image00012.png" width="300">|
+|12|E키|<img src="./img/image00013.png" width="300">|
 |13|안개|<img src="./img/image00014.bmp" width="300">|
 |14|공포사운드|<img src="./img/image00015.png" width="300">|
 |15|공포사운드1|<img src="./img/image00016.png" width="300">|
