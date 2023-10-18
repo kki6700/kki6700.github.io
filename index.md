@@ -95,4 +95,27 @@ https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
 - Blender : 무료 3D 모델링 프로그램을 사용하여 원하는 에셋 및 건물 사용
 - Adobe Substance 3D Painter : 메터리얼 프로그램을 사용하여 퀄리티 향상
 
+# 1. 게임 오브젝트 분해 (구성 요소 분석)
 
+|연번|오브젝트 이름|오브젝트 이미지|
+|:----:|:----:|:----:|
+|1|플레이어|<img src="./img/image00001.png" width="300">|
+|2|손전등|<img src="./img/image00002.bmp" width="300">|
+|3|문|<img src="./img/image00003.png" width="300">|
+|4|평범한 조각상|<img src="./img/image00004.bmp" width="300">|
+|5|기괴한 조각상|<img src="./img/image00005.png" width="300">|
+|6|천사상|<img src="./img/image00006.png" width="300">|
+|7|그림|<img src="./img/image00007.png" width="300">|
+|8|기괴한 그림|<img src="./img/image00008.png" width="300">|
+|9|플레이어|<img src="./img/image00009.bmp" width="300">|
+|10|손전등|<img src="./img/image00010.png" width="300">|
+|11|문|<img src="./img/image00011.png" width="300">|
+|12|평범한 조각상|<img src="./img/image00012.png" width="300">|
+|13|기괴한 조각상|<img src="./img/image00013.png" width="300">|
+|14|천사상|<img src="./img/image00014.bmp" width="300">|
+|15|그림|<img src="./img/image00015.png" width="300">|
+|16|기괴한 그림|<img src="./img/image00016.png" width="300">|
+|17|천사상|<img src="./img/image00017.png" width="300">|
+|18|그림|<img src="./img/image00018.png" width="300">|
+|19|기괴한 그림|<img src="./img/image00019.png" width="300">|
+|:----:|:----:|:----:|
