@@ -115,6 +115,6 @@ https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
 |14|천사상|<img src="./img/image00014.bmp" width="300">|
 |15|그림|<img src="./img/image00015.png" width="300">|
 |16|기괴한 그림|<img src="./img/image00016.png" width="300">|
-|17|천사상|<img src="./img/image00017.png" width="300">|
-|18|그림|<img src="./img/image00018.png" width="300">|
+|17|사운드|<img src="./img/image00017.png" width="300">|
+|18|세이더 그래프|<img src="./img/image00018.bmp" width="300">|
 |19|기괴한 그림|<img src="./img/image00019.png" width="300">|
