@@ -118,4 +118,4 @@ https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
 |17|천사상|<img src="./img/image00017.png" width="300">|
 |18|그림|<img src="./img/image00018.png" width="300">|
 |19|기괴한 그림|<img src="./img/image00019.png" width="300">|
-|:----:|:----:|:----:|
+
