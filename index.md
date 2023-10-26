@@ -294,15 +294,12 @@ https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
 30. 플레이어는 발견되는 쪽지의 내용을 토대로 게임을 진행함.
     
 ### 2. FlowChart(시간별 흐름도)
-
 ![image](https://github.com/kki6700/kki6700.github.io/assets/59388611/11818efa-2e4c-4824-8e41-b6661ea95bc2)
 
 ### 3. KeyBoard Event
-
 ![image](https://github.com/kki6700/kki6700.github.io/assets/59388611/730d5205-ecd0-47f8-9f3e-3f248d9f5ea2)
 
 ### 4. 게임 용어정리
-
 ![image](https://github.com/kki6700/kki6700.github.io/assets/59388611/6f1c119f-1157-4c9e-89d9-eacd92698c81)
 
 
