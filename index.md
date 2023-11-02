@@ -262,7 +262,7 @@ https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
 
 
 ## 8. 개발 요구사항 & 흐름도
-### 1.요구 사항
+### 1.요구 사항(1년치)
 01. (W, A, S, D)키로 플레이어를 이동을 제어 할 수 있다.
 02. 1인칭이며 마우스를 따라 이동하는 카메라를 구현한다.
 03. E키로 열쇠, 문, 쪽지, 퍼즐, 조각상등과 상호작용 할 수 있다.
@@ -302,5 +302,3 @@ https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
 
 ### 4. 게임 용어정리
 ![image](https://github.com/kki6700/kki6700.github.io/assets/59388611/6f1c119f-1157-4c9e-89d9-eacd92698c81)
-
-
