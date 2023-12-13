@@ -380,4 +380,4 @@ https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
 - 추가작업
   1. unity의 LightSetting을 사용한 안개및 그림자 효과 추가.
   2. 잠긴문 사운드 효과 추가(열쇠로 잠긴 문을 여는 사운드효과)
-  3. 
+  3. point Light를 이용하여 천장에 Lamp 추가(추후 모델 수정)
